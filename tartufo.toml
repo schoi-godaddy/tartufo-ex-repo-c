@@ -2,7 +2,7 @@
 repo-path = "."
 regex = true
 entropy = true
-entropy-sensitivity=90
+entropy-sensitivity=75
 exclude-path-patterns = [
 ]
 
