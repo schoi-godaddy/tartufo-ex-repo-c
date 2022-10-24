@@ -1,0 +1,13 @@
+[tool.tartufo]
+repo-path = "."
+regex = true
+entropy = true
+entropy-sensitivity=90
+exclude-path-patterns = [
+]
+
+exclude-signatures = [
+]
+
+exclude-entropy-patterns = [
+]
